@@ -1,0 +1,35 @@
+# Скомпилированные бинарники Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Сгенерированные файлы состояний
+state_after_1_day.txt
+states/
+state_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
