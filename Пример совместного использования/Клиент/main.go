@@ -1,7 +1,5 @@
 package main
 
-// Netcatl - TCP-клиент только для чтения,
-
 import (
 	"encoding/json"
 	"fmt"
